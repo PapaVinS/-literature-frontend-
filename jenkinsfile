@@ -1,5 +1,5 @@
 def branch = "production"
-def remoteurl = "https://github.com/papavins/literature-frontend.git"
+def remoteurl = "https://github.com/PapaVinS/literature-frontend.git"
 def remotename = "jenkins"
 def workdir = "~/literature-frontend/"
 def ip = "103.176.79.23"
